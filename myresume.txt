@@ -1,0 +1,36 @@
+•	On daily basis worked in middle between application and infrastructure coordinating with SMEs to ensure smooth code deployments from application to application.
+•	Maintained Puppet configuration for EC2 hosting environment.
+•	Understanding the Technical aspects from High level to create Deployment plans, Contingency Plans and which direction to go if they hit a snag. 
+•	Part of core engineering team designing the new platform (Using Ansible, Boto) to host applications in AWS.
+•	Designed and set up Multi-Region (US-EAST-1, US-WEST-2) AWS environments hosted in VPC’s.
+•	Performed all necessary day-to-day Subversion support for different projects. 
+•	Build Application using Anthill Pro on day to day basis. 
+•	Deployment of the Business processes by creating JAR, WAR, TAR and EAR files to IBM WebSphere application servers and BAR to IBM Brokers (WMB and IIB) 
+•	Build & Deployment of App Code to non-prod environments using the ITG tool. 
+•	Used ANT and MAVEN as a build tools on java projects for the development of build artifacts on the source code.
+•	Built and led a geographically distributed team responsible for building a private Openstack-based cloud a private cloud used by various services such as DBaaS (database as a service), LBaaS (Load Balancers as a Service).
+•	Developed full-automation of build-out of a 3-AZ (availability-zone) Openstack cloud (on hardware) using Saltstack (python)
+•	Optimized database openstack schemas and provided consultation to various service teams for query performance improvements
+•	Setup and maintained base CentOS EC2 AMIs which was used to create new hosts.
+•	Developed Ruby and Shell scripts to automate build processes.
+•	Generated scripts for effective integration of JIRA applications with other tools.
+•	Upgrading Environments like DEV, TEST, UAT, STAGE after every minor and major releases and Infrastructure support to all environments. 
+•	Creating Scripts using Tool like IntelliJ IDEA to deploy them along with other archive files. 
+•	Worked on creation of Change requests and Service requests using ITG. 
+•	Involved in creating MAVEN scripts to automate builds and deployments of BAR files on to IBM BROKERS (IIB).
+•	Used SVN for branching, tagging, and merging and responsible for maintenance of the Subversion repositories, views, and the access control strategies
+•	Usage of version control repository SVN (Subversion by apache),JIRA/ Quality Center for ticketing, Wiki for documentation, Jenkins for nightly build.. 
+•	Responsible to maintain ANT Build Scripts and tweak if changes in the requirements. 
+•	Working knowledge of LINUX Shell scripting. 
+•	Conducted analysis and evaluation of existing systems to upgrade latest versions of JIRA.
+•	Deployed the Java applications into web application servers like IBM Web Sphere. 
+•	Responsible for Deployment Dry Run Plans and Execution of the Dry Run on every release for multiple applications. 
+•	Responsible for Deployment Back-Out Plans and if necessary Back-Out the whole application at or after the Release for PROD environment. 
+•	Worked as a Release Manager for Enterprise Applications. 
+•	Planned release schedules using agile methodology and coordinated releases with engineering and SQA for on-time delivery. 
+•	Responsible for WSADMIN scripts or admin console deployments. 
+•	Worked with QA on Performance Monitoring setup and Troubleshooting/Fixing for Enterprise applications. 
+•	Responsibility to perform the Security Scans (Web Scan, Pen Test) 
+•	Worked with ETS for New Infrastructure (IRD) and responsible for the Infrastructure Management. 
+•	Setting up TWS (Tivoli Work Sheet) Jobs and deploy TAR files on daily basis to every environment on IBM WebSphere and automate the TWS jobs. 
+
